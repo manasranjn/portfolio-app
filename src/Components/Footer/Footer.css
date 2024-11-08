@@ -1,0 +1,23 @@
+footer{
+    background-color: #111e38;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.footer-logo img{
+    width: 55px;
+    border-radius: 15%;
+}
+.footer-social-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-social-links li{
+    list-style: none;
+    margin: 10px;
+}
+.footer-social-links li a{
+    text-decoration: none;
+    color: #fcb212;
+}
